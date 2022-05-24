@@ -4,7 +4,9 @@
 <!-- - 👨‍💻 All of my projects are available at []() -->
 <!-- - 💬 Ask me about **JavaScript, React.js, Next.js and Node.js** -->
 - 👀 I’m interested in Web Development, Blockchain development, Cyber Security.
+- 
 - 🌱 I’m currently learning Computer Science And Engineering.
+- 
 - ⚡ Fun fact: I love to watch web-series and play chess / Karate 🤣
 
 <h3 align="left">Connect with me:</h3>
