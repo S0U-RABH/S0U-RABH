@@ -1,6 +1,6 @@
-# <h1 align="center"> Hi 👋, I’m @S0U-RABH</h1> 
+<h1 align="center"> Hi 👋, I’m @S0U-RABH</h1> 
 <p align="center"> 
- <h3> I live in India and work with Web Development.</h3> 
+ <h3 align="center"> I live in India and work with Web Development.</h3> 
 </p>
 - 👀 I’m interested in Web Development , Blockchain development, Cyber Security...
 - 🌱 I’m currently learning Computer Science And Engineering ...
