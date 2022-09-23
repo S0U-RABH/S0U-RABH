@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Computer Science And Engineering.
 
-- ⚡ Fun fact: I love to watch web-series and play chess / Karate 🤣
+- ⚡ Fun fact: I love to watch web-series and play chess || Karate 🤣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
